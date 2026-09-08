@@ -2,8 +2,8 @@
   "enabled": true,
   "title": "تنبيه هام",
   "message": "مرحبًا بك في تطبيق VideoFlow Pro. تابع آخر التحديثات والتحسينات من هنا.",
-  "imageUrl": "https://USERNAME.github.io/videoflow-updates/images/update.jpg",
+  "imageUrl": "https://raw.githubusercontent.com/Idriss1234567890/videoflow-updates/main/images/update.jpg",
   "buttonText": "فتح الرابط",
-  "buttonUrl": "https://github.com/USERNAME/videoflow-updates/releases",
+  "buttonUrl": "https://github.com/Idriss1234567890/videoflow-updates/releases",
   "dismissible": true
 }
