@@ -1,1 +1,9 @@
-https://wa.me/212771348035
+{
+  "enabled": true,
+  "title": "ساعدنا على تطوير MangaLix",
+  "message": "نعمل على تطوير سيرفر خاص بـ MangaLix لتحسين سرعة الترجمة وتقليل الاعتماد على مفاتيح الذكاء الاصطناعي الشخصية. دعمك يساعدنا على تحسين التطبيق، إضافة ميزات جديدة، وتقديم تجربة قراءة أفضل. شكرًا لكل من يدعم المشروع ❤️",
+  "imageUrl": "https://raw.githubusercontent.com/Idriss1234567890/videoflow-updates/main/images/update.jpg",
+  "buttonText": "دعم المشروع",
+  "buttonUrl": "https://wa.me/212771348035",
+  "dismissible": true
+}
