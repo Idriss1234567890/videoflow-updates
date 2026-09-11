@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "versionCode": 5,
-  "versionName": "3.2",
-  "forceUpdate": false,
-  "title": "تحديث جديد متوفر",
-  "message": "يوجد إصدار جديد من التطبيق. حدّث التطبيق للاستفادة من التحسينات الجديدة.",
+  "versionCode": 6,
+  "versionName": "3.3",
+  "forceUpdate": true,
+  "title": "تحديث إجباري",
+  "message": "يجب تحديث التطبيق للاستمرار.",
   "downloadUrl": "https://github.com/Idriss1234567890/videoflow-updates/releases/latest/download/app.apk"
 }
