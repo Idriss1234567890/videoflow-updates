@@ -1,9 +1,8 @@
 {
-  "enabled": true,
-  "title": "ساعدنا على تطوير mangalix",
-  "message": "نعمل على تطوير سيرفر قوي خاص بالتطبيق، حتى نتمكن من تقديم تجربة أفضل وتقليل الاعتماد على مفاتيح الذكاء الاصطناعي الشخصية. دعمك يساعدنا على شراء السيرفر، تحسين الترجمة، وإضافة ميزات جديدة. إذا أعجبك التطبيق، يمكنك دعم المشروع بالمبلغ الذي يناسبك.",
-  "imageUrl": "https://raw.githubusercontent.com/Idriss1234567890/videoflow-updates/main/images/update.jpg",
-  "buttonText": "دعم المشروع",
-  "buttonUrl": "https://github.com/Idriss1234567890/videoflow-updates",
-  "dismissible": true
+  "versionCode": 5,
+  "versionName": "3.2",
+  "forceUpdate": false,
+  "title": "تحديث جديد متوفر",
+  "message": "يوجد إصدار جديد من التطبيق. حدّث التطبيق للاستفادة من التحسينات الجديدة.",
+  "downloadUrl": "https://github.com/Idriss1234567890/videoflow-updates/releases/latest/download/app.apk"
 }
